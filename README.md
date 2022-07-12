@@ -1,4 +1,4 @@
-# API to inspect new tokens added oin the decentralized exchange of Binance Smart Chain, Pancakeswap.
+# API to inspect new tokens added to the decentralized exchange of Binance Smart Chain, Pancakeswap.
 
 Pancakeswap API:
 
